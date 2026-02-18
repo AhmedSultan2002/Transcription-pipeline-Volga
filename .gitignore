@@ -1,0 +1,14 @@
+# Environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local audio storage 
+secure_audio_storage/
+
+# Downloaded ML model weights
+~/.cache/huggingface/
